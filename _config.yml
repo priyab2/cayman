@@ -5,3 +5,4 @@ google_analytics:
 theme: jekyll-theme-cayman
 github:
   urls: http://google.com/
+  another_url: Test.html
