@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to Mayomics VC
 
-_yay_
 
 [back](./)
