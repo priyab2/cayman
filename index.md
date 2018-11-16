@@ -6,6 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 [This is another Sample Link](./Test.html).
+<a id="skip-to-content" href="#content">Skip to the content.</a>
 
 There should be whitespace between paragraphs.
 
